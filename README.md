@@ -11,8 +11,8 @@ Information Security || 3x Hackathon 🏆|| Tech👨🏻‍💻 || Web Technolog
 - IT Operations [@Cobrasoftwares](https://www.cobrasoft.org/). :man_technologist: : <br>
 
 
--  :man_technologist: : Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, GraphQL and Golang.
-- :cloud: Technologies: Cloud  (AWS, Azure, Cloud Jiffy ) 
+-  :man_technologist: : Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, Python and Golang.
+- :cloud: Technologies: Cloud  (GCP, Azure, Cloud Jiffy ) 
 
 
 <a href="https://www.linkedin.com/in/samjohnoffl/">
