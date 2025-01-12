@@ -11,7 +11,7 @@ Information Security || 4x Hackathon 🏆|| Tech👨🏻‍💻 || Web Technolog
 - IT Operations Intern [@Cobrasoftwares](https://www.cobrasoft.org/). :man_technologist: : <br>
 
 
--  :man_technologist: : Code: HTML, CSS, JavaScript, React, MongoDb, Node.js, C++, Python and Golang.
+-  :man_technologist: : Code: HTML, CSS, , Bootstrap, JavaScript, MongoDb, Python and Bash Scripting.
 - :cloud: Technologies: Cloud  (GCP, Azure, Cloud Jiffy ) 
 
 
